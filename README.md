@@ -1,7 +1,7 @@
 # Drill-Home-Labs
 Labs made to drill in lessons
 
-****All device passwords are set as "cisco"******
+****All device passwords are set as "cisco"****
 
 Hello, 
 
