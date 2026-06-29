@@ -1,5 +1,4 @@
-# Drill-Home-Labs
-Labs made to drill in lessons
+#Personal Labs made to drill in lessons
 
 ****All device passwords are set as "cisco"****
 
