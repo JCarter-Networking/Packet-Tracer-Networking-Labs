@@ -1,6 +1,7 @@
 #Hands-On Networking Labs Created to Strengthen Technical Skills
 
 ****All device passwords are set as "cisco"****
+****.PKT files are Cisco Packet Tracer labs, .ODT are my lab notes****
 
 Hello,
 
