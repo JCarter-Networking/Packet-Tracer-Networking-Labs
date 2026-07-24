@@ -1,7 +1,4 @@
-#Hands-On Networking Labs Created to Strengthen Technical Skills
-
-****All device passwords are set as "cisco"****
-****.PKT files are Cisco Packet Tracer labs, .ODT are my lab notes****
+Hands-On Networking Labs Created to Strengthen Technical Skills
 
 Hello,
 
@@ -14,3 +11,7 @@ Some labs include accompanying documentation detailing challenges encountered, t
 Many of the labs build upon one another. In some cases, I intentionally leave configurations partially updated or introduce known issues to create realistic troubleshooting scenarios in later labs. This approach allows me to practice identifying, diagnosing, and resolving issues that can arise in interconnected network environments.
 
 Completed labs are fully functional and achieve their intended learning objectives, while also serving as a foundation for more advanced networking concepts and troubleshooting exercises.
+
+****All device passwords are set as "cisco"****
+
+****.pkt files contain the Packet Tracer lab files, and .odt files contain the accompanying lab documentation, including notes, troubleshooting steps, and observations. The .odt files can be opened with most word processing applications.****
