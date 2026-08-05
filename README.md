@@ -14,4 +14,6 @@ Completed labs are fully functional and achieve their intended learning objectiv
 
 ****All device passwords are set as "cisco"****
 
+****You will need to download the raw file to get the appropriate files****
+
 ****.pkt files contain the Packet Tracer lab files, and .odt files contain the accompanying lab documentation, including notes, troubleshooting steps, and observations. The .odt files can be opened with most word processing applications.****
